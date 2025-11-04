@@ -11,13 +11,10 @@ A Flutter mobile application that fetches gaming data from RAWG Video Games Data
 ## 📱 Demo Video
 
 ### App Demonstration
-> **Note:** Place your demo video in the `video` folder with name `demo.mp4`
 
-![App Demo](video/tranvanduy_se183134.mp4)
+**🎥 Watch Demo Video:** [Click here to watch on Google Drive](https://drive.google.com/file/d/1LGE5L4yMnQX3hBWwj4V0F39dUslK76Oj/view?usp=sharing)
 
-**Or watch online:** [Demo Video Link](video/tranvanduy_se183134.mp4)
-
-**Alternative:** If video doesn't display on GitHub, upload to YouTube/Google Drive and add link here.
+> The demo video showcases all features including home screen with game listings, search functionality, category filters, game details, and favorites management with offline support.
 
 ---
 
